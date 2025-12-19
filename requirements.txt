@@ -1,0 +1,12 @@
+numpy
+pandas
+cv2
+opencv-python-headless
+matplotlib
+tensorflow
+pytorch
+tesseract
+transformers
+timm
+datasets
+
